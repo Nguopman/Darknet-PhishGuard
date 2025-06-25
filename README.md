@@ -128,6 +128,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Contact
 Feel free to reach out for questions or feedback:
 GitHub: @nguopman
-LinkedIn: inkedin.com/in/thenguopman
+LinkedIn: linkedin.com/in/thenguopman
 Email: mailsyedmanofficial@gmail.com
 ⭐️ If you find this project useful, please give it a star on GitHub! ⭐️
