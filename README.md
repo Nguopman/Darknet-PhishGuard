@@ -114,7 +114,7 @@ Contributions are welcome!
 
  🙏 Credits
 
-* 👨‍💻 Developed by: **Syed Mohsin Abbas Naqvi** (2023f-BCNS-098)
+* 👨‍💻 Developed by: **Syed Mohsin Abbas Naqvi**  ( A Student of Sir Syed University of Engineering and Technology Persuing Becholars Degree in Computer Network and Security)
 * 👩‍🏫 Special Thanks: **Miss Anila Saghir** for guidance & support
 
 Libraries Used
